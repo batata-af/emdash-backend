@@ -7,13 +7,13 @@
 	"d1_databases": [
 		{
 			"binding": "DB",
-			"database_name": "my-emdash-sql","database_id": "2ca75387-775f-4aed-85ab-ab610de57541",
+			"database_name": "my-emdash-sql","database_id": "2ca75387-775f-4aed-85ab-ab610de57541"
 		},
 	],
 	"r2_buckets": [
 		{
 			"binding": "MEDIA",
-			"bucket_name": "my-emdash-media","preview_bucket_name": "my-emdash-media",
+			"bucket_name": "my-emdash-media","preview_bucket_name": "my-emdash-media"
 		},
 	],
 	// Sandboxed plugins require Worker Loader, available on Workers paid plans. Uncomment to enable:
